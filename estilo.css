@@ -1,0 +1,25 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+
+
+#Menu{
+    color: blueviolet;
+}
+
+.Titulo{
+    text-align: center;
+}
+
+#Rodape{
+    background-color: blueviolet;
+}
+
+.Quem-fez{
+    text-align: center;
+    color: azure;
+}
+
+
